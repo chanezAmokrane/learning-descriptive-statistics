@@ -45,6 +45,3 @@ Les indicateurs suivants sont analysés afin d’évaluer la qualité des donné
 - Valeurs incohérentes : contrôle des valeurs impossibles ou hors bornes définies par le contexte des données.
 - Distribution des variables : analyse de la moyenne, de la médiane et de l’asymétrie afin d’anticiper d’éventuelles transformations.
 
-
-## Public cible
-Étudiants et débutants en data analysis.
